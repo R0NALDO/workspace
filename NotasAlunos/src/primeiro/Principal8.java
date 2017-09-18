@@ -25,7 +25,7 @@ public class Principal8 {
 			System.out.println("2- Ver notas");
 			System.out.println("3- Ver resultados");
 			System.out.println("0- Sair");			
-			System.out.print("digite sua opção: ");
+			System.out.print("digite sua opção: "); 
 			op = ler.next();
 			//cadastrar
 		switch (op) {
