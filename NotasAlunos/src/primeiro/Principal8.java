@@ -152,7 +152,7 @@ Para armazenar as notas dos alunos (considere uma única disciplina), crie uma ma
 linhas (uma linha para cada aluno) e 5 colunas (4 notas e uma média) do tipo Double.
 Note que o vetor de alunos é “paralelo” às linhas da matriz. Ou seja, o elemento 0 (zero) vetor,
 equivale à linha 0 da matriz e assim sucessivamente.
-Agora, desenvolva um aplicativo com um menu de opções:
+Agora, desenvolva um aplicativo com um menu de Opções:
  1- Lançar notas para a turma
  2- Ver notas da turma
  3- Ver resultados
