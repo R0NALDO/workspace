@@ -167,7 +167,7 @@ de perguntar o nome da turma para o usuário e que ele pode lançar notas de vária
 turmas (em diferentes arquivos).
 Se o usuário desejar, ele pode lançar mais notas de uma turma, para tanto, basta abrir
 o arquivo relativo a tal turma e continuar os lançamentos.
-Não esqueça de calcular a média.
+Não esqueça de calcular a médiA.
 	Ver notas da turma
 Pergunte ao usuário qual é a turma e mostre os dados na tela
 Lembre-se de que várias turmas podem estar gravadas em disco, então, permita que o
